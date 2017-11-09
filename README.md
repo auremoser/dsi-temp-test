@@ -1,30 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome my Final Project
 
-You can use the [editor on GitHub](https://github.com/auremoser/dsi-temp-test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here is some introductory material about my final project.
 
 ### Meteorites Map
 
 Some details about meteorites...here is a map:
 <iframe width="100%" height="520" frameborder="0" src="https://auremoser.carto.com/builder/685d22e6-7189-4ec2-8d1d-a95c8959f4b8/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-- Bulleted
-- List
+### Meteorites Chart
+I also decided that it would be interesting to study the meteorites according to magnitude, determine which meteorites hit hardest, not just their density on a per-country basis.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/auremoser/dsi-temp-test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
