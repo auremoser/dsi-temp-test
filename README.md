@@ -4,16 +4,10 @@ You can use the [editor on GitHub](https://github.com/auremoser/dsi-temp-test/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Meteorites Map
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+Some details about meteorites...here is a map:
+<iframe width="100%" height="520" frameborder="0" src="https://auremoser.carto.com/builder/685d22e6-7189-4ec2-8d1d-a95c8959f4b8/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 - Bulleted
 - List
